@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon start index.js"
+  },
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15"
+  },
+  "name": "curd",
+  "version": "1.0.0",
+  "description": "basic node operations",
+  "main": "index.js",
+  "author": "Harshak50",
+  "license": "ISC"
+}
